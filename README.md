@@ -15,7 +15,7 @@
 
 - 📫 Como me encontrar **contato@desenvolvedorativo.com**
 
-- ⚡ Fato curioso: **Nós nos divertimos encontramos os bugs que nós mesmos cometemos! :-)**
+- ⚡ Fato curioso: **Nós nos divertimos encontramos bugs! :-)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
